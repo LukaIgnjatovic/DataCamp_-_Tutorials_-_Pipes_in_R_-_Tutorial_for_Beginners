@@ -1,6 +1,6 @@
-<img src="https://assets.datacamp.com/production/course_58/shields/original/shield_image_course_58_20171014-212-smydbp?1507963258" alt="Introduction to R" width="250x" height="250x">
+<img src="https://www.datacamp.com/datacamp-sq.png" alt="DataCamp" width="250x" height="250x">
 
-# [DataCamp - Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r/)
+# [DataCamp - Pipes in R Tutorial For Beginners](https://www.datacamp.com/community/tutorials/pipe-r-tutorial)
 
 ## Tutorial Description
 
