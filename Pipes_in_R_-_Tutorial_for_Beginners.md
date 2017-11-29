@@ -10,7 +10,7 @@ Now, you can look at the history from three perspectives: from a mathematical po
 
 #### Mathematical History
 
-If you have two functions, let's say ![](img/Equation 1.png) and ![](img/Equation 2.png), you can chain these functions together by taking the output of one function and inserting it into the next. In short, "chaining" means that you pass an intermediate result onto the next function, but you'll see more about that later.
+If you have two functions, let's say ![Equation 1](img/Equation 1.png) and ![](img/Equation 2.png), you can chain these functions together by taking the output of one function and inserting it into the next. In short, "chaining" means that you pass an intermediate result onto the next function, but you'll see more about that later.
 
 For example, you can say, ![](img/Equation 3.png) serves as an input for ![](img/Equation 4.png), while ![](img/Equation 5.png), of course, serves as input to ![](img/Equation 6.png).
 
