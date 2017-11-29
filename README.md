@@ -4,7 +4,7 @@
 
 ## Tutorial Description
 
-Learn more about the famous pipe operator %>% and other pipes in R, why and how you should use them and what alternatives you can consider!
+Learn more about the famous pipe operator **%>%** and other pipes in R, why and how you should use them and what alternatives you can consider!
 
 *This tutorial is written by [Karlijn Willems](https://www.datacamp.com/profile/karlijn).*
 
