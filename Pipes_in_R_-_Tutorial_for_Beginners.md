@@ -17,7 +17,7 @@ For example, you can say, ![](https://github.com/LukaIgnjatovic/DataCamp_-_Tutor
 If you would want to note this down, you will use the notation ![](https://github.com/LukaIgnjatovic/DataCamp_-_Tutorials_-_Pipes_in_R_-_Tutorial_for_Beginners/blob/master/img/Equation%207.png), which reads as "f follows g". Alternatively, you can visually represent this as:
 
 <p align="center">
-  ![](https://github.com/LukaIgnjatovic/DataCamp_-_Tutorials_-_Pipes_in_R_-_Tutorial_for_Beginners/blob/master/img/Piping%20Data.jpg)
+  <img src="https://github.com/LukaIgnjatovic/DataCamp_-_Tutorials_-_Pipes_in_R_-_Tutorial_for_Beginners/blob/master/img/Piping%20Data.jpg" alt="Piping Data"/>
 </p>
 
 #### Pipe Operators in Other Programming Languages
