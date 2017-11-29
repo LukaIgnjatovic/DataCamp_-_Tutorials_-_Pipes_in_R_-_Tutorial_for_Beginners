@@ -10,18 +10,14 @@ Now, you can look at the history from three perspectives: from a mathematical po
 
 #### Mathematical History
 
-If you have two functions, let's say ![Equation 1](img/Equation 1.png) and ![](img/Equation 2.png), you can chain these functions together by taking the output of one function and inserting it into the next. In short, "chaining" means that you pass an intermediate result onto the next function, but you'll see more about that later.
+If you have two functions, let's say ![](https://github.com/LukaIgnjatovic/DataCamp_-_Tutorials_-_Pipes_in_R_-_Tutorial_for_Beginners/blob/master/img/Equation%201.png) and ![](https://github.com/LukaIgnjatovic/DataCamp_-_Tutorials_-_Pipes_in_R_-_Tutorial_for_Beginners/blob/master/img/Equation%202.png), you can chain these functions together by taking the output of one function and inserting it into the next. In short, "chaining" means that you pass an intermediate result onto the next function, but you'll see more about that later.
 
-For example, you can say, ![](img/Equation 3.png) serves as an input for ![](img/Equation 4.png), while ![](img/Equation 5.png), of course, serves as input to ![](img/Equation 6.png).
+For example, you can say, ![](https://github.com/LukaIgnjatovic/DataCamp_-_Tutorials_-_Pipes_in_R_-_Tutorial_for_Beginners/blob/master/img/Equation%203.png) serves as an input for ![](https://github.com/LukaIgnjatovic/DataCamp_-_Tutorials_-_Pipes_in_R_-_Tutorial_for_Beginners/blob/master/img/Equation%204.png), while ![](https://github.com/LukaIgnjatovic/DataCamp_-_Tutorials_-_Pipes_in_R_-_Tutorial_for_Beginners/blob/master/img/Equation%205.png), of course, serves as input to ![](https://github.com/LukaIgnjatovic/DataCamp_-_Tutorials_-_Pipes_in_R_-_Tutorial_for_Beginners/blob/master/img/Equation%206.png).
 
-If you would want to note this down, you will use the notation ![](img/Equation 7.png), which reads as "f follows g". Alternatively, you can visually represent this as:
-
-<p align="center">
-  ![](img/Piping Data.jpg)
-</p>
+If you would want to note this down, you will use the notation ![](https://github.com/LukaIgnjatovic/DataCamp_-_Tutorials_-_Pipes_in_R_-_Tutorial_for_Beginners/blob/master/img/Equation%207.png), which reads as "f follows g". Alternatively, you can visually represent this as:
 
 <p align="center">
-  <img src="http://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1510846626/Pipe-Mathematical_gczmab.png" alt="Piping Data"/>
+  ![](https://github.com/LukaIgnjatovic/DataCamp_-_Tutorials_-_Pipes_in_R_-_Tutorial_for_Beginners/blob/master/img/Piping%20Data.jpg)
 </p>
 
 #### Pipe Operators in Other Programming Languages
